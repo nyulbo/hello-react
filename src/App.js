@@ -18,7 +18,7 @@ class App extends Component {
         </p>
         <p>gogogo</p>
         <MyName  />
-        <MyNameFnc name="Fnc 이름" />
+        <MyNameFnc name="Fnc 이름g" />
         <Counter />
       </div>
     );
